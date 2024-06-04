@@ -1,0 +1,14 @@
+{
+  "name": "dragansalg.github.io",
+  "version": "1.0.0",
+  "description": "portfolioV2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DraganSalg",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.14.0"
+  }
+}
